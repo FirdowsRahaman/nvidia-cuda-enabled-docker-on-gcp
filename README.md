@@ -1,4 +1,4 @@
-# NVIDIA CUDA Enabled Docker on GCP
+# NVIDIA CUDA Enabled Docker on GCP (TensorFlow and PyTorch)
 
 This repository contains Dockerfiles and Python scripts to check the availability and proper setup of GPUs for PyTorch and TensorFlow on Google Cloud Platform (GCP). It ensures that CUDA is available and prints the versions of Python and the respective deep learning libraries.
 
